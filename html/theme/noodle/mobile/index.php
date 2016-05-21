@@ -4,7 +4,7 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 include_once(G5_THEME_MOBILE_PATH.'/head.php');
 ?>
 
-
+test
 <!-- 메인배너 { -->
 <section id="sbn_idx" class="sbn">
    <!-- <h2>메인 배너</h2> -->

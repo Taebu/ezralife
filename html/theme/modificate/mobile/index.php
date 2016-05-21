@@ -3,7 +3,7 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 
 include_once(G5_THEME_MOBILE_PATH.'/head.php');
 ?>
-
+test
 <!-- 메인화면 최신글 시작 -->
 <?php
 //  최신글
