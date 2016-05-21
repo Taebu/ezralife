@@ -166,3 +166,9 @@ include_once(G5_LIB_PATH.'/popular.lib.php');
     </div>
     <div id="container">
         <?php if ((!$bo_table || $w == 's' ) && !defined("_INDEX_")) { ?><div id="container_title"><?php echo $g5['title'] ?></div><?php } ?>
+
+
+
+
+
+        header.php
